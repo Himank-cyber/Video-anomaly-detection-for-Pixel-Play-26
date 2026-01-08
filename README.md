@@ -28,7 +28,8 @@ To run this notebook, you will need the following Python libraries:
 ## 🚀 How to Run
 1.  **Clone the repository:** either clone the repository in your IDE if you are using system resources or paste the notebook code into google colab or kaggle if you are using any of their notebooks
 2.  **Install the mentioned Python libraries** (Skip if you are using google colab/ kaggle notebook)
-3.  **Launch the Notebook**
+3.  **Update dataset directories in the notebook code**
+4.  **Launch the Notebook**
 
 ## 📊 Results / Key Findings
 
